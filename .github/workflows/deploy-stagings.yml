@@ -36,7 +36,7 @@ jobs:
           echo test, and deploy your project.
 
 #Stage the app
-name: Stage the app
+- name: Stage the app
 
 on:
   pull_request:
